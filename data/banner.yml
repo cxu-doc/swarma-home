@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style2 orient-center content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
+title : "集智科学研究中心"
+subtitle: |
+  没有围墙的研究所
+content : |
+  集智科学研究中心是集智俱乐部的运营主体｡ 集智俱乐部由北京师范大学系统科学学院教授张江创办于2003年，是一个从事学术研究、享受科学乐趣的探索者的团体，也是国内最早的研究人工智能、复杂系统的科学社区。
+button:
+  label : "了解详情"
+  link : "#research-direction"
+image : "images/0-1Swarma(+5s)_109.jpg"
+

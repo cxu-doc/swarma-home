@@ -1,0 +1,55 @@
+title : "读书会"
+id: "section-read-groups"
+content: |
+  读书会是立足于跨学科交叉领域，以共学共研梳理方法论体系，孵化复杂系统相关前沿方向及社区的系列论文研读活动。
+overall_style: "wrapper style1 align-center large onload-fade-in"
+items_style: ""
+items:
+  # feature item loop
+  - title : "因果科学与 CausalAI 读书会"
+    style : "style2 medium onscroll-fade-in color4 invert"
+    buttons: 
+      - label: "第一季"
+        link: "#"
+        comment: |
+          框架和前沿方向 <u><a href="https://pattern.swarma.org/search?value=因果推断" rel="noreferrer noopener" target="_blank">#因果推断</a></u><u><a href="https://pattern.swarma.org/search?value=机器学习" rel="noreferrer noopener" target="_blank"> #机器学习</a></u><u><a href="https://pattern.swarma.org/search?value=工具变量" rel="noreferrer noopener" target="_blank"> #工具变量</a></u><u><a href="https://pattern.swarma.org/search?value=因果之梯" rel="noreferrer noopener" target="_blank"> #因果之梯</a></u><u><a href="https://pattern.swarma.org/search?value=分布外泛化" rel="noreferrer noopener" target="_blank"> #分布外泛化</a></u><u><a href="https://pattern.swarma.org/search?value=因果强化学习" rel="noreferrer noopener" target="_blank"> #因果强化学习</a></u><u><a href="https://pattern.swarma.org/search?value=因果表征学习" rel="noreferrer noopener" target="_blank"> #因果表征学习</a></u><u><a href="https://pattern.swarma.org/search?value=迁移学习" rel="noreferrer noopener" target="_blank"> #迁移学习</a></u>
+      - label: "第二季"
+        link: "#"
+        comment: |
+          基础和应用实战 <u><a href="https://pattern.swarma.org/search?value=因果推断" rel="noreferrer noopener" target="_blank">#因果推断</a></u><u><a href="https://pattern.swarma.org/search?value=机器学习" rel="noreferrer noopener" target="_blank"> #机器学习</a></u><u><a href="https://pattern.swarma.org/search?value=工具变量" rel="noreferrer noopener" target="_blank"> #工具变量</a></u><u><a href="https://pattern.swarma.org/search?value=因果之梯" rel="noreferrer noopener" target="_blank"> #因果之梯</a></u><u><a href="https://pattern.swarma.org/search?value=分布外泛化" rel="noreferrer noopener" target="_blank"> #分布外泛化</a></u><u><a href="https://pattern.swarma.org/search?value=因果强化学习" rel="noreferrer noopener" target="_blank"> #因果强化学习</a></u><u><a href="https://pattern.swarma.org/search?value=因果表征学习" rel="noreferrer noopener" target="_blank"> #因果表征学习</a></u><u><a href="https://pattern.swarma.org/search?value=迁移学习" rel="noreferrer noopener" target="_blank"> #迁移学习</a></u>
+      - label: "第三季"
+        link: "#"
+        comment: |
+          Causal+X 领域
+    image: "images/因果科学.jpeg"
+    content : "因果科学社区由智源社区、集智俱乐部共同推动，面向因果科学领域的垂直型学术讨论社区，目的是促进因果科学专业人士和兴趣爱好者们的学习、交流和合作，推进因果科学学术、产业生态的建设和落地，孕育新一代因果科学领域的学术专家和产业创新者。"
+
+  - title : "因果涌现读书会"
+    style : "style1 major color3 invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/7"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=因果涌现" rel="noreferrer noopener" target="_blank">#因果涌现</a></u><u><a href="https://pattern.swarma.org/search?value=复杂系统" rel="noreferrer noopener" target="_blank"> #复杂系统</a></u><u><a href="https://pattern.swarma.org/search?value=重整化" rel="noreferrer noopener" target="_blank"> #重整化</a></u><u><a href="https://pattern.swarma.org/search?value=自指动力学" rel="noreferrer noopener" target="_blank"> #自指动力学</a></u><u><a href="https://pattern.swarma.org/search?value=整合信息论" rel="noreferrer noopener" target="_blank"> #整合信息论</a></u><u><a href="https://pattern.swarma.org/search?value=多尺度建模" rel="noreferrer noopener" target="_blank">#多尺度建模</a></u>
+      - label: "第二季"
+        link: "https://pattern.swarma.org/study_group/16"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=因果涌现" rel="noreferrer noopener" target="_blank">#因果涌现</a></u><u><a href="https://pattern.swarma.org/search?value=信息分解" rel="noreferrer noopener" target="_blank"> #信息分解</a></u><u><a href="https://pattern.swarma.org/search?value=自上而下的因果" rel="noreferrer noopener" target="_blank">#自上而下的因果</a></u><u><a href="https://pattern.swarma.org/search?value=粗粒化" rel="noreferrer noopener" target="_blank"> #粗粒化</a></u><u><a href="https://pattern.swarma.org/search?value=多尺度自动建模" rel="noreferrer noopener" target="_blank">#多尺度自动建模</a></u>
+    image: "images/WechatIMG67.jpeg"
+    content : "涌现与因果的结合创造了因果涌现的概念。这是一套利用因果性来定量刻画涌现的理论体系。"
+
+  - title : "计算社会科学读书会"
+    style : "style5 major color1 invert"
+    buttons: 
+      - label: "第一季"
+        link: "#"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=社会计算" rel="noreferrer noopener" target="_blank">#社会计算</a></u><u><a href="https://pattern.swarma.org/search?value=隐私保护" rel="noreferrer noopener" target="_blank"> #隐私保护</a></u><u><a href="https://pattern.swarma.org/search?value=复杂科学" rel="noreferrer noopener" target="_blank"> #复杂科学</a></u><u><a href="https://pattern.swarma.org/search?value=网络科学" rel="noreferrer noopener" target="_blank"> #网络科学</a></u><u><a href="https://pattern.swarma.org/search?value=可解释" rel="noreferrer noopener" target="_blank"> #可解释</a></u><u><a href="https://pattern.swarma.org/search?value=智慧城市" rel="noreferrer noopener" target="_blank"> #智慧城市</a></u>
+      - label: "第二季"
+        link: "#"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=词嵌入" rel="noreferrer noopener" target="_blank">#词嵌入</a></u><u><a href="https://pattern.swarma.org/search?value=可视化" rel="noreferrer noopener" target="_blank"> #可视化</a></u><u><a href="https://pattern.swarma.org/search?value=自然语言处理" rel="noreferrer noopener" target="_blank"> #自然语言处理</a></u><u><a href="https://pattern.swarma.org/search?value=计算传播" rel="noreferrer noopener" target="_blank"> #计算传播</a></u><u><a href="https://pattern.swarma.org/search?value=人类移动数据" rel="noreferrer noopener" target="_blank"> #人类移动数据</a></u><u><a href="https://pattern.swarma.org/search?value=计算建模" rel="noreferrer noopener" target="_blank"> #计算建模</a></u>
+    image: "images/计算社会科学.png"
+    content : "计算社会科学是近年来新涌现出的一个学科领域，相比于传统的社会科学研究，计算社会科学依赖更大规模，更精确的人类行为数据，更多采用诸如建模，仿真，神经网络等基于数学，物理，计算机知识的方法。"
+    
+    

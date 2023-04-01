@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+	{{ partial "banner" site.Data.banner }}
+	<!-- {{ partial "items" site.Data.overview }} -->
+	<!-- {{ partial "spotlight" site.Data.researchDirection }} -->
+	{{ partial "items" site.Data.topics }}
+	<!-- {{ partial "spotlight" site.Data.spotlight1 }} -->
+	<!-- {{ partial "spotlight" site.Data.spotlight2 }} -->
+	<!-- {{ partial "spotlight" site.Data.spotlight3 }} -->
+	{{ partial "gallery" site.Data.gallery }}
+	{{ partial "spotlight" site.Data.community }}
+	{{ partial "items" site.Data.communityMenu }}
+	<!-- {{ partial "elements" . }} -->
+	<!-- {{ partial "elements_reference" . }} -->
+	{{ partial "spotlight_items" site.Data.read_groups }}
+	{{ partial "footer" . }}
+
+{{ end }}

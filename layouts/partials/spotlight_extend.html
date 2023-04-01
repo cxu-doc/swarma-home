@@ -1,0 +1,18 @@
+<!-- Spotlight_ext -->
+<section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
+    <div class="content">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+
+        {{ with .buttons }}<ul class="actions stacked">
+            {{ range . }}
+            <li><a href="{{ .link }}" class="button">{{ .label }}</a>
+                {{ with .comment }}<div>{{ . | safeHTML }}</div>{{ end }}
+            </li>
+            {{ end }}
+        </ul>{{ end }}
+    </div>
+    {{ with .image }}<div class="image">
+        <img src="{{ . }}" alt="" />
+    </div>{{ end }}
+</section>

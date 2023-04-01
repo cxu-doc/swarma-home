@@ -1,0 +1,25 @@
+title : "研究方向-复杂活系统理论"
+content: |
+  复杂系统真正的奥秘隐藏在一大类具有“活性”的生命及类生命的复杂系统之中，我们将其称为“复杂活系统”（Complex Vivid Systems）。这类系统展现了一系列新的涌现特征，包括：自适应性（Self-adaptive）、进化（Evolution）、自上而下的因果（Downward Causation）、目的性（Purposive）、自指性（Self-referential）、智能性（Intelligent）等。
+style: "style3 medium onscroll-fade-in big"
+items:
+  # feature item loop
+  - name : "因果与复杂系统"
+    content : "复杂活系统展现出因果解耦和向下因果特性，挑战了底层因果规律。通过因果推断、机器学习等手段，研究这些特性成为重要问题。"
+    style : "style2 major fa-solar-system"
+
+  # feature item loop
+  - name : "自指与意识机器"
+    content : "自我意识是目前最大的未解决难题之一。什么样的复杂系统能够产生自我意识？我们是否能够构建具备意识的机器？我们猜测，这些问题都与自指具有深刻的联系，我们是否可以利用自指能力来定义意识本身？我们又是否可以凭借自复制自动机的技巧创建意识机器？这是我们关注的一个重大问题。"
+    style : "style2 major fa-brain-arrow-curved-right"
+    
+  # feature item loop
+  - name : "复杂系统自动建模"
+    content : "复杂科学的使命在于获得不同复杂系统背后的统一规律。然而，发现统一规律的前提是能够在一种不同的视角下重新看待、比较不同的复杂系统。复杂阶梯理论（Complexity Hieararchy）就是这样一种新的视角。"
+    style : "style2 major fa-grid fa-duotune"
+    
+  # feature item loop
+  - name : "复杂阶梯理论"
+    content : "复杂科学的使命在于获得不同复杂系统背后的统一规律。然而，发现统一规律的前提是能够在一种不同的视角下重新看待、比较不同的复杂系统。复杂阶梯理论（Complexity Hieararchy）就是这样一种新的视角。"
+    style : "style2 major fa-stairs"
+    

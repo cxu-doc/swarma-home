@@ -1,0 +1,10 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in "
+id: "research-direction"
+title : "研究方向-复杂活系统理论"
+content: |
+  复杂系统真正的奥秘隐藏在一大类具有“活性”的生命及类生命的复杂系统之中，我们将其称为“复杂活系统”（Complex Vivid Systems）。这类系统展现了一系列新的涌现特征，包括：自适应性（Self-adaptive）、进化（Evolution）、自上而下的因果（Downward Causation）、目的性（Purposive）、自指性（Self-referential）、智能性（Intelligent）等。
+# button: 
+#   label: "Learn More"
+#   link: "#"
+# image: "images/spotlight01.jpg"
