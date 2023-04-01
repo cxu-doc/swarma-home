@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Hugo Story"
+title = "集智科学研究中心"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -32,13 +32,13 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 ## -----------------------------------------------
 
 [Params]
-  description = "A (modular, highly tweakable) responsive one-page theme for Hugo"
+  description = "介绍"
   logo = "images/banner.jpg"
   favicon = true
 
 [Params.social]
-  github = "https://github.com/caressofsteel/"
-  twitter = "https://twitter.com/caressofsteel_"
+  github = "https://github.com/"
+  twitter = "https://twitter.com/"
   email = "caressofsteel@protonmail.com"
   instagram = "https://instagram.com"
   linkedin = "https://linkedin.com"
@@ -46,4 +46,3 @@ disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 
 [Params.asset]
   fontawesome_css = ["css/fontawesome-all.min.css"]
-  fontawesome_js = ["js/fontawesome-all.min.js"]
