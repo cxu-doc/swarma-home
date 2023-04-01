@@ -10,17 +10,21 @@ items:
     style : "style2 medium onscroll-fade-in color4 invert"
     buttons: 
       - label: "第一季"
-        link: "#"
+        link: "https://pattern.swarma.org/study_group/1"
         comment: |
           框架和前沿方向 <u><a href="https://pattern.swarma.org/search?value=因果推断" rel="noreferrer noopener" target="_blank">#因果推断</a></u><u><a href="https://pattern.swarma.org/search?value=机器学习" rel="noreferrer noopener" target="_blank"> #机器学习</a></u><u><a href="https://pattern.swarma.org/search?value=工具变量" rel="noreferrer noopener" target="_blank"> #工具变量</a></u><u><a href="https://pattern.swarma.org/search?value=因果之梯" rel="noreferrer noopener" target="_blank"> #因果之梯</a></u><u><a href="https://pattern.swarma.org/search?value=分布外泛化" rel="noreferrer noopener" target="_blank"> #分布外泛化</a></u><u><a href="https://pattern.swarma.org/search?value=因果强化学习" rel="noreferrer noopener" target="_blank"> #因果强化学习</a></u><u><a href="https://pattern.swarma.org/search?value=因果表征学习" rel="noreferrer noopener" target="_blank"> #因果表征学习</a></u><u><a href="https://pattern.swarma.org/search?value=迁移学习" rel="noreferrer noopener" target="_blank"> #迁移学习</a></u>
       - label: "第二季"
-        link: "#"
+        link: "https://pattern.swarma.org/study_group/4"
         comment: |
           基础和应用实战 <u><a href="https://pattern.swarma.org/search?value=因果推断" rel="noreferrer noopener" target="_blank">#因果推断</a></u><u><a href="https://pattern.swarma.org/search?value=机器学习" rel="noreferrer noopener" target="_blank"> #机器学习</a></u><u><a href="https://pattern.swarma.org/search?value=工具变量" rel="noreferrer noopener" target="_blank"> #工具变量</a></u><u><a href="https://pattern.swarma.org/search?value=因果之梯" rel="noreferrer noopener" target="_blank"> #因果之梯</a></u><u><a href="https://pattern.swarma.org/search?value=分布外泛化" rel="noreferrer noopener" target="_blank"> #分布外泛化</a></u><u><a href="https://pattern.swarma.org/search?value=因果强化学习" rel="noreferrer noopener" target="_blank"> #因果强化学习</a></u><u><a href="https://pattern.swarma.org/search?value=因果表征学习" rel="noreferrer noopener" target="_blank"> #因果表征学习</a></u><u><a href="https://pattern.swarma.org/search?value=迁移学习" rel="noreferrer noopener" target="_blank"> #迁移学习</a></u>
       - label: "第三季"
-        link: "#"
+        link: "https://pattern.swarma.org/study_group/10"
         comment: |
-          Causal+X 领域
+          Causal+X 领域 <a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果科学" rel="noopener" target="_blank">#因果科学</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果推断" rel="noopener" target="_blank"> #因果推断</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=潜在结果框架" rel="noopener" target="_blank"> #潜在结果框架</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=机器学习" rel="noopener" target="_blank"> #机器学习</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果推荐系统" rel="noopener" target="_blank"> #因果推荐系统</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果随机森林" rel="noopener" target="_blank"> #因果随机森林</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果自然语言处理" rel="noopener" target="_blank"> #因果自然语言处理</a>
+      - label: "第四季"
+        link: "https://pattern.swarma.org/study_group/22"
+        comment: |
+          因果表征学习 <a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果表征学习" rel="noopener" target="_blank">#因果表征学习</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果推断" rel="noopener" target="_blank"> #因果推断</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果生成模型" rel="noopener" target="_blank"> #因果生成模型</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=独立因果机制" rel="noopener" target="_blank"> #独立因果机制</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果可解释性" rel="noopener" target="_blank"> #因果可解释性</a><a class="study-group-keyword underlined" href="https://pattern.swarma.org/search?value=因果公平性" rel="noopener" target="_blank"> #因果公平性</a>
     image: "images/因果科学.jpeg"
     content : "因果科学社区由智源社区、集智俱乐部共同推动，面向因果科学领域的垂直型学术讨论社区，目的是促进因果科学专业人士和兴趣爱好者们的学习、交流和合作，推进因果科学学术、产业生态的建设和落地，孕育新一代因果科学领域的学术专家和产业创新者。"
 
