@@ -42,14 +42,138 @@ items:
     style : "style5 major color1 invert"
     buttons: 
       - label: "第一季"
-        link: "#"
+        link: "https://pattern.swarma.org/study_group/6"
         comment: |
           <u><a href="https://pattern.swarma.org/search?value=社会计算" rel="noreferrer noopener" target="_blank">#社会计算</a></u><u><a href="https://pattern.swarma.org/search?value=隐私保护" rel="noreferrer noopener" target="_blank"> #隐私保护</a></u><u><a href="https://pattern.swarma.org/search?value=复杂科学" rel="noreferrer noopener" target="_blank"> #复杂科学</a></u><u><a href="https://pattern.swarma.org/search?value=网络科学" rel="noreferrer noopener" target="_blank"> #网络科学</a></u><u><a href="https://pattern.swarma.org/search?value=可解释" rel="noreferrer noopener" target="_blank"> #可解释</a></u><u><a href="https://pattern.swarma.org/search?value=智慧城市" rel="noreferrer noopener" target="_blank"> #智慧城市</a></u>
       - label: "第二季"
-        link: "#"
+        link: "https://pattern.swarma.org/study_group/19"
         comment: |
           <u><a href="https://pattern.swarma.org/search?value=词嵌入" rel="noreferrer noopener" target="_blank">#词嵌入</a></u><u><a href="https://pattern.swarma.org/search?value=可视化" rel="noreferrer noopener" target="_blank"> #可视化</a></u><u><a href="https://pattern.swarma.org/search?value=自然语言处理" rel="noreferrer noopener" target="_blank"> #自然语言处理</a></u><u><a href="https://pattern.swarma.org/search?value=计算传播" rel="noreferrer noopener" target="_blank"> #计算传播</a></u><u><a href="https://pattern.swarma.org/search?value=人类移动数据" rel="noreferrer noopener" target="_blank"> #人类移动数据</a></u><u><a href="https://pattern.swarma.org/search?value=计算建模" rel="noreferrer noopener" target="_blank"> #计算建模</a></u>
     image: "images/计算社会科学.png"
     content : "计算社会科学是近年来新涌现出的一个学科领域，相比于传统的社会科学研究，计算社会科学依赖更大规模，更精确的人类行为数据，更多采用诸如建模，仿真，神经网络等基于数学，物理，计算机知识的方法。"
     
     
+  - title : "复杂经济学系列读书会"
+    style : "style2 major color2 invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/3"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=金融复杂性" rel="noreferrer noopener" target="_blank">#金融复杂性</a></u><u><a href="https://pattern.swarma.org/search?value=复杂性科学" rel="noreferrer noopener" target="_blank"> #复杂性科学</a></u><u><a href="https://pattern.swarma.org/search?value=圣塔菲研究所" rel="noreferrer noopener" target="_blank"> #圣塔菲研究所</a></u><u><a href="https://pattern.swarma.org/search?value=复杂经济学" rel="noreferrer noopener" target="_blank"> #复杂经济学</a></u><u><a href="https://pattern.swarma.org/search?value=复杂系统" rel="noreferrer noopener" target="_blank"> #复杂系统</a></u><u><a href="https://pattern.swarma.org/search?value=复杂性思维" rel="noreferrer noopener" target="_blank"> #复杂性思维</a></u>
+      - label: "第二季"
+        link: "https://pattern.swarma.org/study_group/20"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=复杂经济学" rel="noreferrer noopener" target="_blank">#复杂经济学</a></u><u><a href="https://pattern.swarma.org/search?value=奥地利学派经济学" rel="noreferrer noopener" target="_blank"> #奥地利学派经济学</a></u><u><a href="https://pattern.swarma.org/search?value=幂律法则" rel="noreferrer noopener" target="_blank"> #幂律法则</a></u><u><a href="https://pattern.swarma.org/search?value=标度现象" rel="noreferrer noopener" target="_blank"> #标度现象</a></u><u><a href="https://pattern.swarma.org/search?value=主体建模" rel="noreferrer noopener" target="_blank"> #主体建模</a></u><u><a href="https://pattern.swarma.org/search?value=经济物理学" rel="noreferrer noopener" target="_blank"> #经济物理学</a></u>
+    image: "images/复杂经济学第一季.jpeg"
+    content : "随着学界对新古典经济学基本假设的反思，讨论非均衡、非线性、演化的复杂经济学逐渐登上主流舞台，复杂经济学读书会希望从基本原理、方法和应用的角度，探索这个新兴的复杂经济学中正在发展和形成的研究方向和研究议题"
+
+  - title : "NeuroAI读书会"
+    style : "style1 major color3 orient-right invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/21"
+        comment: |
+          <a class="underlined" href="https://pattern.swarma.org/search?value=卷积神经网络" rel="noopener" target="_blank">#卷积神经网络</a><a class="underlined" href="https://pattern.swarma.org/search?value=视觉智能" rel="noopener" target="_blank"> #视觉智能</a><a class="underlined" href="https://pattern.swarma.org/search?value=自然语言处理模型" rel="noopener" target="_blank"> #自然语言处理模型</a><a class="underlined" href="https://pattern.swarma.org/search?value=语言智能" rel="noopener" target="_blank"> #语言智能</a><a class="underlined" href="https://pattern.swarma.org/search?value=强化学习模型" rel="noopener" target="_blank"> #强化学习模型</a><a class="underlined" href="https://pattern.swarma.org/search?value=学习智能" rel="noopener" target="_blank"> #学习智能</a>
+    image: "images/NeuroAI.jpg"
+    content : "本次读书会基于人类的认知层次，按照从低级到高级的顺序，依次研讨【视觉智能】、【语言智能】和【学习智能】三大模块，共同研讨领域内的前沿、经典文献，梳理领域发展。"
+
+  - title : "神经动力学模型读书会"
+    style : "style1 major color5 invert"
+    buttons: 
+      - label: "第一季"
+        link:  "https://pattern.swarma.org/study_group/15"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=神经网络" rel="noreferrer noopener" target="_blank">#神经网络</a></u><u><a href="https://pattern.swarma.org/search?value=多尺度" rel="noreferrer noopener" target="_blank"> #多尺度</a></u><u><a href="https://pattern.swarma.org/search?value=脑网络" rel="noreferrer noopener" target="_blank"> #脑网络</a></u><u><a href="https://pattern.swarma.org/search?value=认知功能" rel="noreferrer noopener" target="_blank"> #认知功能</a></u><u><a href="https://pattern.swarma.org/search?value=动力学模型" rel="noreferrer noopener" target="_blank"> #动力学模型</a></u><u><a href="https://pattern.swarma.org/search?value=复杂系统" rel="noreferrer noopener" target="_blank"> #复杂系统</a></u>
+    image: "images/神经动力学模型.jpg"
+    content : "神经动力学读书会聚焦于神经科学中的动力学建模这一前沿课题，讨论神经科学中基于多尺度建立动力学模型的方式方法，以及其在脑疾病病理探索，脑认知原理解析和人工智能方面的具体应用"
+
+  - title : "自生成结构读书会"
+    style : "style5 major color1 invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/13"
+        comment: |
+          <a class="underlined" href="https://pattern.swarma.org/search?value=自指" rel="noopener" target="_blank">#自指</a><a class="underlined" href="https://pattern.swarma.org/search?value=自复制自动机" rel="noopener" target="_blank"> #自复制自动机</a><a class="underlined" href="https://pattern.swarma.org/search?value=系统生物哲学" rel="noopener" target="_blank"> #系统生物哲学</a><a class="underlined" href="https://pattern.swarma.org/search?value=科学哲学" rel="noopener" target="_blank"> #科学哲学</a><a class="underlined" href="https://pattern.swarma.org/search?value=生命" rel="noopener" target="_blank"> #生命</a><a class="underlined" href="https://pattern.swarma.org/search?value=意识" rel="noopener" target="_blank"> #意识</a><a class="underlined" href="https://pattern.swarma.org/search?value=自创生理论" rel="noopener" target="_blank"> #自创生理论</a><a class="underlined" href="https://pattern.swarma.org/search?value=自催化" rel="noopener" target="_blank"> #自催化</a>
+    image: "https://qiniu.swarma.org/course/image/3da5b64486e5902252138a9922435dcd.jpg"
+    content : "为了能够更加深入地讨论生命的本质结构和意识等重要问题，并在不同学科间建立有效沟通的桥梁，自生成结构第一季主要围绕形成自生成结构与自复制自动机研究背景相关的基本共识展开"
+
+  - title : "生命复杂性读书会"
+    style : "style2 major color2 invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/2"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=生命" rel="noreferrer noopener" target="_blank">#生命</a><a href="https://pattern.swarma.org/search?value=复杂性科学" rel="noreferrer noopener" target="_blank"> #复杂性科学</a></u><u><a href="https://pattern.swarma.org/search?value=生命起源" rel="noreferrer noopener" target="_blank"> #生命起源</a><a href="https://pattern.swarma.org/search?value=信息" rel="noreferrer noopener" target="_blank"> #信息</a><a href="https://pattern.swarma.org/search?value=物理" rel="noreferrer noopener" target="_blank"> #物理</a><a href="https://pattern.swarma.org/search?value=意识" rel="noreferrer noopener" target="_blank"> #意识</a><a href="https://pattern.swarma.org/search?value=生物" rel="noreferrer noopener" target="_blank"> #生物</a></u>
+    image: "https://qiniu.pattern.swarma.org/study_group/image/5d3a4a131f137e9fc12c17742ac10a0e.jpeg"
+    content : "我们尝试从物理和信息的角度，理解生命是什么，个体与环境的边界是什么，希望梳理出生命起源研究的关键节点，找到最有希望突破的前沿探索。"
+
+  - title : "地球系统科学读书会"
+    style : "style2 color5 orient-left invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/14"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=地球系统科学" rel="noreferrer noopener" target="_blank">#地球系统科学</a></u><u><a href="https://pattern.swarma.org/search?value=统计物理" rel="noreferrer noopener" target="_blank"> #统计物理</a></u><u><a href="https://pattern.swarma.org/search?value=机器学习" rel="noreferrer noopener" target="_blank"> #机器学习</a></u><u><a href="https://pattern.swarma.org/search?value=时空图神经网络" rel="noreferrer noopener" target="_blank"> #时空图神经网络</a></u><u><a href="https://pattern.swarma.org/search?value=因果推断" rel="noreferrer noopener" target="_blank"> #因果推断</a></u><u><a href="https://pattern.swarma.org/search?value=气候网络" rel="noreferrer noopener" target="_blank"> #气候网络</a></u>
+    image: "https://qiniu.swarma.org//course/image/f5f8b77f61914f0202040ba93c0b0fb8.jpg"
+    content : "地球的气候系统是众多的复杂系统之一，近年来，随着计算机技术、人工智能的快速发展，许多深度学习的方法比如神经网络、图网络等也被广泛地应用于分析和解决许多的地球科学问题，本次读书会，我们将系统地研究这些统计物理、深度学习等方法在地球系统科学中应用的相关文献展开讨论"
+
+  - title : "复杂系统管理学读书会"
+    style : "style4 major color7 invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/9"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=复杂管理系统" rel="noreferrer noopener" target="_blank">#复杂管理系统</a></u><u><a href="https://pattern.swarma.org/search?value=涌现" rel="noreferrer noopener" target="_blank"> #涌现</a></u><u><a href="https://pattern.swarma.org/search?value=演化" rel="noreferrer noopener" target="_blank"> #演化</a></u><u><a href="https://pattern.swarma.org/search?value=信息不对称" rel="noreferrer noopener" target="_blank"> #信息不对称</a></u><u><a href="https://pattern.swarma.org/search?value=复杂适应系统" rel="noreferrer noopener" target="_blank"> #复杂适应系统</a></u>
+    image: "https://qiniu.pattern.swarma.org/study_group/image/c5aaf035223ef909e65902c1e0655a2c.png"
+    content : "本读书会即致力于分享学习复杂性科学思维在管理学的实际应用，学习新时代下的理论体系，进而反哺于现实社会组织研究，为管理学现代化提供新的控制、决策系统化视角"
+
+  - title : "科学学读书会"
+    style : "style1 major color8 orient-right invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/12"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=科学学" rel="noreferrer noopener" target="_blank">#科学学</a></u><u><a href="https://pattern.swarma.org/search?value=引文网络" rel="noreferrer noopener" target="_blank"> #引文网络</a></u><u><a href="https://pattern.swarma.org/search?value=科学影响力评价" rel="noreferrer noopener" target="_blank"> #科学影响力评价</a></u><u><a href="https://pattern.swarma.org/search?value=科学家兴趣转移" rel="noreferrer noopener" target="_blank"> #科学家兴趣转移</a></u><u><a href="https://pattern.swarma.org/search?value=合作网络" rel="noreferrer noopener" target="_blank"> #合作网络</a></u><u><a href="https://pattern.swarma.org/search?value=学科交叉" rel="noreferrer noopener" target="_blank"> #学科交叉</a></u><u><a href="https://pattern.swarma.org/search?value=跨学科研究" rel="noreferrer noopener" target="_blank"> #跨学科研究</a></u><u><a href="https://pattern.swarma.org/search?value=职业生涯动力学" rel="noreferrer noopener" target="_blank"> #职业生涯动力学</a></u><u><a href="https://pattern.swarma.org/search?value=知识流动" rel="noreferrer noopener" target="_blank"> #知识流动</a></u>
+    image: "https://qiniu.pattern.swarma.org/study_group/image/e68f81c3f736e78651d91eca00895c78.png"
+    content : "科学是研究实践、是理性精神，也是一个由学者、文献、科研项目、科学思想与灵感等一起构成的自组织、自生长的复杂系统。科学学则是一门学科，旨在深入理解科学研究的种种因素并推动科学发展。"
+
+  - title : "高阶网络读书会"
+    style : "style1 major color6 invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/17"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=单纯复形" rel="noreferrer noopener" target="_blank">#单纯复形</a></u><u><a href="https://pattern.swarma.org/search?value=高阶交互" rel="noreferrer noopener" target="_blank"> #高阶交互</a></u><u><a href="https://pattern.swarma.org/search?value=超图" rel="noreferrer noopener" target="_blank"> #超图</a></u><u><a href="https://pattern.swarma.org/search?value=高阶网络重构" rel="noreferrer noopener" target="_blank"> #高阶网络重构</a></u>
+    image: "https://qiniu.swarma.org//course/image/7e28edc2c4439cc4aba54947f51c7892.jpg"
+    content : "人们发现在许多真实的复杂系统中，广泛存在多个体同时（或以特定顺序）进行交互，即高阶交互现象。为此，研究人员分别发展出了基于超图、单纯复形、依赖关系等的网络高阶表示模型，为复杂网络分析和研究提供了新的思路，高阶网络读书会主要结合单纯复形（simplex）表示模型展开讨论"
+
+  - title : "后chatGPT读书会"
+    style : "style4 major color7 invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/23"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=ChatGPT" rel="noreferrer noopener" target="_blank">#ChatGPT</a></u><u><a href="https://pattern.swarma.org/search?value=大语言模型" rel="noreferrer noopener" target="_blank"> #大语言模型</a></u><u><a href="https://pattern.swarma.org/search?value=因果科学" rel="noreferrer noopener" target="_blank"> #因果科学</a></u><u><a href="https://pattern.swarma.org/search?value=意识机器" rel="noreferrer noopener" target="_blank"> #意识机器</a></u><u><a href="https://pattern.swarma.org/search?value=自指" rel="noreferrer noopener" target="_blank"> #自指</a></u><u><a href="https://pattern.swarma.org/search?value=因果涌现" rel="noreferrer noopener" target="_blank"> #因果涌现</a></u><u><a href="https://pattern.swarma.org/search?value=奇点" rel="noreferrer noopener" target="_blank"> #奇点</a></u>
+    image: "https://qiniu.pattern.swarma.org/study_group/image/dc461343ead8a7b33e83a666782cc4bb.jpg"
+    content : "本次读书会将在对ChatGPT技术原理探讨的基础上，延伸探讨上述相关方向的探索历程与前沿进展，勾勒未来人工智能技术路线图，并探讨通用人工智能预期下的未来社会前景。"
+
+  - title : "AI+Science读书会"
+    style : "style1 major color4 invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/24"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=科学模拟" rel="noreferrer noopener" target="_blank">#科学模拟</a></u><u><a href="https://pattern.swarma.org/search?value=科学设计" rel="noreferrer noopener" target="_blank"> #科学设计</a></u><u><a href="https://pattern.swarma.org/search?value=科学发现" rel="noreferrer noopener" target="_blank"> #科学发现</a></u><u><a href="https://pattern.swarma.org/search?value=生成模型" rel="noreferrer noopener" target="_blank"> #生成模型</a></u><u><a href="https://pattern.swarma.org/search?value=学习理论" rel="noreferrer noopener" target="_blank"> #学习理论</a></u>
+    image: "https://qiniu.pattern.swarma.org/study_group/image/4fe7b6682c76d67b67df356e47a0dcbf.png"
+    content : "本次读书会，我们将详细探讨AI+Science中的重要分支，在每一个分支中探讨重要的问题，当前前沿方法，以及待解决的开放性问题。在AI for Science下，我们将着重探讨以下三个分支：AI用于科学模拟，AI用于科学设计，以及AI用于科学发现。在Science for AI，我们将着重探讨物理启发下的生成模型，以及物理启发下的学习理论。"
+
+  - title : "复杂系统自动建模读书会"
+    style : "style1 major color2 orient-right invert"
+    buttons: 
+      - label: "第一季"
+        link: "https://pattern.swarma.org/study_group/8"
+        comment: |
+          <u><a href="https://pattern.swarma.org/search?value=复杂系统" rel="noreferrer noopener" target="_blank">#复杂系统</a></u><u><a href="https://pattern.swarma.org/search?value=图网络" rel="noreferrer noopener" target="_blank"> #图网络</a></u><u><a href="https://pattern.swarma.org/search?value=深度学习" rel="noreferrer noopener" target="_blank"> #深度学习</a></u><u><a href="https://pattern.swarma.org/search?value=因果推断" rel="noreferrer noopener" target="_blank"> #因果推断</a></u><u><a href="https://pattern.swarma.org/search?value=动力学方程" rel="noreferrer noopener" target="_blank"> #动力学方程</a></u><u><a href="https://pattern.swarma.org/search?value=动力系统" rel="noreferrer noopener" target="_blank"> #动力系统</a></u>
+    image: "https://qiniu.swarma.org/public/file/img/b78c719ddf3e1868da1ac15b7b094475.png"
+    content : "本次读书会解读了一系列论文：它们以数据驱动，设计算法找到个体间相互作用及动力学法则，从而对整个复杂系统进行建模。"
+
