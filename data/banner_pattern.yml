@@ -1,0 +1,12 @@
+####################### Banner #########################
+style: "style5 orient-center content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right invert"
+title : "集智斑图平台"
+subtitle: |
+  集智最智能化的人机交互系统
+content : |
+  集智斑图平台通过人与机器的协作，形成更高级的智能体，能够回答与复杂科学领域相关的问题，并为学习者提供更好的指导和建议。该平台的独特之处在于，它不仅仅是一个智能问答系统，而是一个能够与用户进行深度交互的学习平台。用户可以通过该平台进行在线学习，与其他学习者进行交流，共同探讨科学问题。此外，该平台还提供了丰富的学习资源，包括视频、文章、案例等，帮助学习者更好地理解和掌握知识。
+button:
+  label : "了解详情"
+  link : "#gallery-pattern"
+image : "images/starlings_2x.jpeg"
+
