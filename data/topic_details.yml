@@ -1,0 +1,58 @@
+title : "复杂活系统理论"
+id: "main-topics"
+content: |
+  所谓的复杂科学是指研究复杂系统的科学理论。尽管自从20世纪90年代建立以来，复杂科学已经取得了辉煌的成绩，并在2021年得到了诺贝尔物理学奖的青睐，但是，传统的复杂科学大多针对复杂的物理系统，例如气象系统、材料系统、环境系统等展开研究，并获得一定突破，然而，复杂系统真正的奥秘隐藏在一大类具有“活性”的生命及类生命的复杂系统之中，我们将其称为“复杂活系统”（Complex Vivid Systems）。
+overall_style: "wrapper style1 align-center large onload-fade-in"
+items_style: ""
+items:
+  # feature item loop
+  - title : "概览"
+    style : "style2 medium onscroll-fade-in color1 invert"
+    # image: "images/因果科学.jpeg"
+    # buttons: 
+    #   - label: "第一季"
+    #     link: "https://pattern.swarma.org/study_group/1"
+    #     comment: 
+    content: |
+      <h3>系统特性</h3>
+
+      <p>这类系统展现了一系列新的涌现特征，包括：自适应性（Self-adaptive）、进化（Evolution）、自上而下的因果（Downward Causation）、目的性（Purposive）、自指性（Self-referential）、智能性（Intelligent）等。</p>
+
+      <h3>研究价值</h3>
+
+      <p>尽管这些特征目前尚未能得到明确的定义，但是它们却都与生命的起源、智能的本质、自我意识等重大科学问题相关。</p>
+
+      <h3>研究挑战</h3>
+
+      <p>对这些问题的探讨超出了传统物理属性的范畴，而明显具备更多的&ldquo;信息&rdquo;、&ldquo;计算&rdquo;、&ldquo;同构&rdquo;等特性，因而需要突破传统复杂科学研究的物理方法的限制。本研究中心的重要使命就是要针对这类&ldquo;复杂活系统&rdquo;建立新的复杂性理论。</p>
+
+  - title : "因果与复杂系统"
+    style : "style2 small onscroll-fade-in color0 orient-right"
+    image: "images/causality_logo.png"
+    content: |
+      大量复杂活系统的“活性”能力的体现，恰恰在于这类复杂系统对底层因果规律的某种“超越”。例如，因果涌现（Causal Emergence）理论就指出，如果我们适当地对复杂系统进行粗粒化描述，那么，系统有可能展现出因果效应更强的动力学特征。因而，复杂系统能够在一定程度上与底层的因果规律产生“因果解耦”（Causal Decoupling）的现象。另一方面，复杂活系统还能展现出所谓的“向下因果”（Downward Causation）特性，即如果我们针对系统中的个体单元进行溯因，则很可能追溯到的是系统的整体特性而非其他个体的特征。更重要的是，这类向下因果很可能是涌现出来的，而非明确可观测的变量，这就为自上而下的控制提供了一种新的可能性，同时也为解释“自主性”、“目的性”等重要现象提供了新的可能。所有这些特性都揭示了复杂活系统中因果关系的特殊性和复杂性。因此，如何借助因果推断、因果机器学习、信息分解、复杂网络、神经网络重整化等技术手段探寻复杂活系统中普遍存在的跨尺度因果特性成为了重要的问题。
+  - title : "自指与意识机器"
+    style : "style1 small onscroll-fade-in color0"
+    image: "images/DrawingHands-realesr-0.7-4x.jpg"
+    content: |
+      自指（Self-reference）最早是语言学中的一类现象，即一句话能够形成自我指涉，语言能够谈论语言本身。随后，哥德尔、图灵等人分别将自指能力引入到了数学公理体系和计算理论之中，得出了“不完备性定理”和“图灵停机”等著名“不可能性”定理。随后，冯诺依曼对自复制自动机（Self-reproducing automata）的研究指出，作为一种自动机构造的自指技巧还可以用来创建具备自我复制能力的复杂机器，从而在一定程度上绕过热力学第二定律的“束缚”，实现无损耗的结构复制，甚至于达尔文式的进化。由此可见，自指并非语言、数学的专利，它更是一种系统的功能属性，并在复杂活系统中起到了关键性的作用。
+  - title : "复杂系统的自动建模"
+    style : "style1 big onscroll-fade-in color0 orient-right"
+    image: "https://qiniu.pattern.swarma.org/study_group/image/4fe7b6682c76d67b67df356e47a0dcbf.png"
+    # buttons: 
+    #   - label: "第一季"
+    #     link: "https://pattern.swarma.org/study_group/1"
+    #     comment: 
+    content: |
+      一方面，基于神经网络、深度学习的人工智能技术为我们研究复杂系统提供了新的可能性。我们可以通过数据驱动的方式构建复杂系统模型，还可以在学习到复杂系统因果规律的同时，在“替代模型”上实现对原复杂系统的优化、干预与控制。进一步，我们还可以借助生成式AI技术，自动构建满足特定约束（如数据约束，条件约束）的复杂系统模型。这为复杂系统研究提供了全新的可能性。
+
+      然而，复杂活系统的自动建模给我们提出了全新的挑战。首先，复杂活系统的动力学具有独特的“泛函动力学”（functional dynamics）特性，也就是说系统中的某个变量会自发变成环境变量，使得系统展现出一定的“自我调控”能力。因而，一部分变量构成了“程序”，另一部分变量则成为了“数据”，甚至于整个系统可以模拟图灵机的运作。另一方面，复杂活系统的动力学会展现出典型的多尺度和自相似特征。因此，我们需要同时在多个时空尺度下构建复杂系统的模型。这些挑战都使得我们必须突破传统的技术手段才能真正用于复杂活系统的自动建模。
+  - title : "复杂阶梯理论"
+    style : "style1 big onscroll-fade-in color0 image-position-left "
+    image: "images/复杂性阶梯.jpeg"
+    # buttons: 
+    #   - label: "第一季"
+    #     link: "https://pattern.swarma.org/study_group/1"
+    #     comment: 
+    content: |
+      复杂科学的使命在于获得不同复杂系统背后的统一规律。然而，发现统一规律的前提是能够在一种不同的视角下重新看待、比较不同的复杂系统。复杂阶梯理论（Complexity Hieararchy）就是这样一种新的视角。该理论假设所有复杂系统将能按照其行为和功能上的复杂性排布成一个大致的阶梯，沿着阶梯向上，系统的复杂性将逐步提高，功能性将逐渐增多。在这个阶梯中，自指可能是系统实现从“物理”系统向“活”系统关键跃迁的重要环节。复杂阶梯理论将重点梳理现有复杂系统研究，明确它们在复杂阶梯上的定位，同时还将关注若干阶梯跃迁的重要环节，并寻求跃迁环节的重要规律，最终形成不同复杂系统的统一描述。

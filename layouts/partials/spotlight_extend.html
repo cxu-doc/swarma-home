@@ -2,8 +2,8 @@
 <section class="spotlight {{ .style }}"{{ with .id }} id="{{ . }}"{{ end }}>
     <div class="content">
         {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
-
         {{ with .buttons }}<ul class="actions stacked">
             {{ range . }}
             <li><a href="{{ .link }}" class="button">{{ .label }}</a>

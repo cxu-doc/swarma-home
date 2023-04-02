@@ -4,17 +4,17 @@ content: |
 style: "style3 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "集智斑图"
+  - name : <a href="#gallery-pattern">集智斑图</a>
     content : "集智斑图是集智俱乐部创建的复杂科学领域的高质量内容聚合平台，包含了读书会社区、多领域学习路径、最新论文更新等板块。其目标是沉淀聚合复杂科学相关内容，提高信息匹配效率。"
     style : "style2 major fa-infinity"
 
   # feature item loop
-  - name : "集智俱乐部公众号"
+  - name : <a href="#gallery-wx">集智俱乐部公众号</a>
     content : "集智俱乐部公众号致力于报道复杂科学与人工智能领域的最新进展，特别关注跨学科研究与交流，目前已成为复杂科学领域最有影响力的科学媒体，并多次入围学术媒体Top榜单。"
     style : "style2 major fa-newspaper"
     
   # feature item loop
-  - name : "集智百科"
+  - name : <a href="#wiki">集智百科</a>
     content : "集智百科是复杂科学知识库的沉淀，创建于2013年，主要内容由集智俱乐部志愿者贡献，目前已有成型学术词条300余条。"
     style : "style2 major fa-book-atlas"
     

@@ -1,0 +1,30 @@
+content: '集智俱乐部公众号致力于报道复杂科学与人工智能领域的最新进展，特别关注跨学科研究与交流。集智俱乐部公众号目前已成为复杂科学领域最有影响力的科学媒体，受到国内交叉学科领域学者的广泛关注，并多次入围学术媒体Top榜单。'
+id: gallery-wx
+pictures:
+- button: 阅读
+  content: ''
+  image: https://swarma.org/?p=40317
+  thumb: https://swarma.org/wp-content/uploads/2023/01/wxsync-2023-01-eb6fb4d70dab72f34fb256e7567f82c5.jpeg
+  title: 蜜蜂的群体决策：一万只蜜蜂如何投票选择最佳巢穴？
+- button: 阅读
+  content: ''
+  image: https://swarma.org/?p=40985
+  thumb: https://swarma.org/wp-content/uploads/2023/03/wxsync-2023-03-fadbdf9c051a481e7d26f1cc8bd1d317.jpeg
+  title: 让 ChatGPT 拥有意识，冯·诺依曼会怎么做？——自指机器的奥秘
+- button: 阅读
+  content: ''
+  image: https://swarma.org/?p=39717
+  thumb: https://swarma.org/wp-content/uploads/2023/01/wxsync-2023-01-f60eac54574de7a19b378ea1b7e31d44.jpeg
+  title: ChatGPT 为啥那么牛？语言模型足够大就会涌现出新能力
+- button: 阅读
+  content: ''
+  image: https://swarma.org/?p=41266
+  thumb: https://swarma.org/wp-content/uploads/2023/03/wxsync-2023-03-feb4f6489bd5345a4e8f3f983ec6084c.jpeg
+  title: 量子金融：一种新的经济学方法论 | 量子世界地图
+- button: 阅读
+  content: ''
+  image: https://swarma.org/?p=40856
+  thumb: https://swarma.org/wp-content/uploads/2023/02/wxsync-2023-02-587c0254490905f52b65bb66b2ea8f9f.jpeg
+  title: 意识机器：ChatGPT 能否拥有自我意识？
+style: style1 big lightbox onscroll-fade-in
+title: 集智俱乐部公众号

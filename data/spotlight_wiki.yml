@@ -1,0 +1,13 @@
+####################### Spotlight #########################
+style: "style1 orient-right content-align-left image-position-center onscroll-image-fade-in"
+id: "wiki"
+title: "集智百科"
+subtitle: 知识从我而来，问题到我为止
+content: |
+  集智百科是沉淀复杂科学的知识库，创建于2013年，主要内容由集智俱乐部志愿者贡献，目前已有成型学术词条300余条。
+  集智百科作为一个开源项目，致力于在复杂科学、人工智能这两个学科领域，为大家翻译、整理、编辑最专业、准确的中文百科全书，为广大的科学爱好者提供最便捷的搜索方式。<br>
+  <a href="https://wiki.swarma.org/" class="button primary fit">浏览百科</a>
+button: 
+  label: "进入"
+  link: "https://wiki.swarma.org/"
+image: "images/感兴趣的领域.png"

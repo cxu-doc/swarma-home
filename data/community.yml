@@ -11,5 +11,5 @@ content: |
 style: "style3 medium onscroll-fade-in color5 invert"
 button: 
   label: "加入社区"
-  link: "#"
+  link: "https://pattern.swarma.org/about_us"
 image: "images/2023-03-28_20-41-17_SEED_765480080.png"

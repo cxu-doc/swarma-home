@@ -1,0 +1,11 @@
+####################### Banner #########################
+style: "style5 orient-center content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right invert"
+title : "复杂活系统理论"
+subtitle: 
+content : |
+  所谓的复杂科学是指研究复杂系统的科学理论。尽管自从20世纪90年代建立以来，复杂科学已经取得了辉煌的成绩，并在2021年得到了诺贝尔物理学奖的青睐，但是，传统的复杂科学大多针对复杂的物理系统，例如气象系统、材料系统、环境系统等展开研究，并获得一定突破，然而，复杂系统真正的奥秘隐藏在一大类具有“活性”的生命及类生命的复杂系统之中，我们将其称为“复杂活系统”（Complex Vivid Systems）。
+button:
+  label : "了解详情"
+  link : "#gallery-pattern"
+image : "images/starlings_2x.jpeg"
+
